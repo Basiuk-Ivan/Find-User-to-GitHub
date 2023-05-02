@@ -1,3 +1,3 @@
-# TypeScript Проект GitHub User Finder
+# TypeScript [GitHub User Finder](https://ivan-bass.github.io/Find-User-to-GitHub/)
 
-В даному проекті було реалізовано можливість пошуку user на GitHub
+You can find any user in the GitHub community by writing their login
