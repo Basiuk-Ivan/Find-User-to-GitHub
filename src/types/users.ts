@@ -1,6 +1,5 @@
-export type LocalUsers = {
+export type LocalGitHubUsers = {
     login: string;
-    id: number;
     avatar: string;
     name: string;
     company: string;

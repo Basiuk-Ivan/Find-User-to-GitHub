@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { ReactComponent as MoonIcan } from 'assets/icon-moon.svg';
 import { ReactComponent as SunIcon } from 'assets/icon-sun.svg';
 import styles from './ThemeSwitcher.module.scss';
